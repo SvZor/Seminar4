@@ -1,0 +1,14 @@
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.AssemblyInfoInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.AssemblyInfo.cs
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.csproj.CoreCompileInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\bin\Debug\net7.0\HWSem4.exe
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\bin\Debug\net7.0\HWSem4.deps.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\bin\Debug\net7.0\HWSem4.runtimeconfig.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\bin\Debug\net7.0\HWSem4.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\bin\Debug\net7.0\HWSem4.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\refint\HWSem4.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\HWSem4.genruntimeconfig.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar4\HWSem4\obj\Debug\net7.0\ref\HWSem4.dll
